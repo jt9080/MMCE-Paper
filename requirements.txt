@@ -1,0 +1,16 @@
+pandas==2.2.3
+Pillow==11.2.1
+playwright==1.52.0
+pydantic==2.11.5
+python-dotenv==1.1.0
+Requests==2.32.3
+torch==2.7.0
+tqdm==4.67.1
+transformers==4.52.4
+bert-score==0.3.13
+sacrebleu==2.5.1
+scikit-learn==1.6.1
+pycountry==24.6.1
+rank-bm25==0.2.2
+azure-ai-vision-imageanalysis==1.0.0
+azure-ai-textanalytics==5.2.0
